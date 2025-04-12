@@ -42,5 +42,5 @@ O sistema deve considerar variáveis como frequência de palavras-chave,
 intensificadores e negações para analisar o texto e classificar o 
 sentimento geral do comentário.
 
-Mais detalhes: [Notion - Análise de Sentimentos Fuzzy](https://crivelaro.notion.site/An-lise-de-Sentimentos-Fuzzy-3e0c288d8605438cb3a6880ef62eb423)
-
+- Mais detalhes: [Notion - Análise de Sentimentos Fuzzy](https://crivelaro.notion.site/An-lise-de-Sentimentos-Fuzzy-3e0c288d8605438cb3a6880ef62eb423)
+- Código de referência: [Fuzzy - Freio de Carro - Colab](https://colab.research.google.com/drive/1oyjXY5EacrzznHfgh76T0qX7r1nOpo_t?usp=sharing)
