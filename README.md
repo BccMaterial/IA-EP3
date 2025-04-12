@@ -28,6 +28,8 @@ pip install -r requirements.txt
 python main.py
 ```
 
+> Os scripts estão em `setup.sh` e `setup.ps1`
+
 Para mais detalhes sobre o venv, consulte a 
 [Documentação do venv](https://docs.python.org/pt-br/dev/library/venv.html).
 
